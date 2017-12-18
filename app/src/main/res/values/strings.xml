@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bigweather</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="check_weather">Check Weather</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+</resources>
